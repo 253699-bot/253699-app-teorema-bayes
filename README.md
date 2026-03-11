@@ -11,7 +11,7 @@ Este es el proyecto final para la asignatura de **Probabilidad y Estadística**.
 
 ---
 
-## 🚀 Guía de Instalación y Ejecución Local
+## Guía de Instalación y Ejecución Local
 
 Sigue estos pasos para clonar y levantar el proyecto en tu máquina.
 
@@ -56,6 +56,6 @@ PYTHONPATH=. streamlit run app/main.py
 
 ---
 
-## 📂 Recursos Adicionales
+## Recursos Adicionales
 - Para ejemplos de datasets compatibles y pre-etiquetados, visita la carpeta `/sample_data/`.
 - La arquitectura técnica, matemática y de diseño está documentada a detalle en el archivo `REPORTE_FINAL_COMPLETO.md` ubicado en la raíz del proyecto.
